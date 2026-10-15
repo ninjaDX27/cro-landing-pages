@@ -1,0 +1,26 @@
+[
+  {
+    "bank_id": "demo-a", "bank_name": "Banco A · fictício", "product_name": "Taxa mista a 2 anos",
+    "rate_type": "Mista", "fixed_term_years": 2, "fixed_rate": 2.60, "spread_min": 0.70,
+    "max_ltv": 90, "max_dsti": 50, "max_term_years": 40,
+    "features": ["Condições ilustrativas", "Custos adicionais não incluídos"],
+    "is_demo": true, "verification_status": "demo", "source_url": null,
+    "verified_at": null, "valid_until": null, "taeg": null, "mtic_eur": null
+  },
+  {
+    "bank_id": "demo-b", "bank_name": "Banco B · fictício", "product_name": "Taxa mista a 3 anos",
+    "rate_type": "Mista", "fixed_term_years": 3, "fixed_rate": 2.70, "spread_min": 0.75,
+    "max_ltv": 90, "max_dsti": 45, "max_term_years": 40,
+    "features": ["Condições ilustrativas", "Seguros e comissões por confirmar"],
+    "is_demo": true, "verification_status": "demo", "source_url": null,
+    "verified_at": null, "valid_until": null, "taeg": null, "mtic_eur": null
+  },
+  {
+    "bank_id": "demo-c", "bank_name": "Banco C · fictício", "product_name": "Taxa mista a 1 ano",
+    "rate_type": "Mista", "fixed_term_years": 1, "fixed_rate": 2.50, "spread_min": 0.75,
+    "max_ltv": 85, "max_dsti": 40, "max_term_years": 40,
+    "features": ["Condições ilustrativas", "Período fixo de 12 meses"],
+    "is_demo": true, "verification_status": "demo", "source_url": null,
+    "verified_at": null, "valid_until": null, "taeg": null, "mtic_eur": null
+  }
+]
